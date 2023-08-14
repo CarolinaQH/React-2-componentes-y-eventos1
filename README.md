@@ -1,9 +1,10 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 # React-2-componentes-y-eventos1
+
+
+
+En este desafío validaremos nuestros conocimientos de la unidad: “Estado de los componentes y eventos”.
+En este desarrollo deberán trabajar de manera colaborativa usando GitHub.
+
+
+
+<img width="271" alt="proyecto 2 react" src="https://github.com/CarolinaQH/React-2-componentes-y-eventos1/assets/110051598/242eab69-b98e-464f-853d-7ecb19ce7a37">
